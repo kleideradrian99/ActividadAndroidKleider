@@ -57,6 +57,7 @@ public class CulturaActivity<n> extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intentcalculo = new Intent(CulturaActivity.this,MainActivity.class);
                 startActivity(intentcalculo);
+                //
                 finish();
             }
         });
