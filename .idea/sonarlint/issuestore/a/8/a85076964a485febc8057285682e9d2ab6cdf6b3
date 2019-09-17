@@ -1,0 +1,7 @@
+
+qsquid:S1450"SRemove the "menu" field and declare it as a local variable in the relevant methods.(ñ²ÚÇ8ûåà’Ò-
+bsquid:UselessImportCheck"7Remove this unused import 'android.media.VolumeShaper'.(ÃÊÒ¸8Á–‹–Ò-
+ssquid:S1450"URemove the "btnran" field and declare it as a local variable in the relevant methods.(­…þû8Ç’˜‘Ò-
+{squid:S1450"XRemove the "validador" field and declare it as a local variable in the relevant methods.(¿çÿíÿÿÿÿÿ8×Èì­Ò-
+psquid:UselessImportCheck"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8“ÓÉ’Ò-
+`squid:S2184."BCast one of the operands of this addition operation to a "double".(Œ‚‚Ï8ýâë­Ò-

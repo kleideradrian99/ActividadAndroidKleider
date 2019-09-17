@@ -1,0 +1,10 @@
+
+|squid:S1450"YRemove the "resultados" field and declare it as a local variable in the relevant methods.(Ù™ùÿÿÿÿÿ8ÅÚò¾Ò-
+qsquid:S1450"SRemove the "menu" field and declare it as a local variable in the relevant methods.(ñ²ÚÇ8Ğä°³Ò-
+¤squid:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8ø«—ÀÒ-
+Usquid:S1481b"2Remove this unused "nuevocontador" local variable.(©ù„ÿÿÿÿÿ8Ë“ÅÀÒ-
+¤squid:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8âá¿Ò-
+>squid:S2326"n is not used in the class.(“•Öùÿÿÿÿ8¯×á³Ò-
+V"squid:SwitchLastCaseIsDefaultChecks""Add a default case to this switch.(ÜîáQ8Úò°µÒ-
+squid:S1450"^Remove the "validarespuesta" field and declare it as a local variable in the relevant methods.(ùÄ¼Àşÿÿÿÿ8ëí¾Ò-
+msquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(“•Öùÿÿÿÿ8¯×á³Ò-
